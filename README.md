@@ -13,5 +13,7 @@ The computational cost for this code is negligible.
 The code is extensively commented and the implemented equations are reported in sec-
 tion 1.1, or referenced to existing literature. For these reasons, the functions here reported
 can be easily integrated by the users in their own scripts.
+
 ---
+
 Please contact the authors to report problems/errors, or if you have any suggestion/request.
