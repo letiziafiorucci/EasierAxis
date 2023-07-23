@@ -1,7 +1,7 @@
 # **EASIERAXIS**
 
 *EasierAxis* is a python package for the determination of the optimal orientation of a point
-charge (PC) distribution for a tripositive lanthanoid complexes.
+charge (PC) distribution for tripositive lanthanoid complexes.
 
 The development of the program started with python 3.8 and therefore it is compatible
 with that version. Nevertheless, it has been also tested on python 3.10. Concerning the
